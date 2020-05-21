@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Scripts\PinchZoom.cs">
+    <Files>
+      <File FileName="Assets\_Scripts\MainMenuScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\PinchZoom.cs" Line="1" Column="1" />
+      <File FileName="Assets\LeanTouch\Examples\Scripts\LeanRotate.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\CSharpscaling.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\onClickForScaling.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\DragObject1.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\Rotate.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
